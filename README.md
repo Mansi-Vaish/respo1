@@ -1,2 +1,2 @@
-# respo1
+# Mie programm
 This is my first git repository
